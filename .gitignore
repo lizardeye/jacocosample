@@ -1,0 +1,20 @@
+/target/
+/.gradle
+/.allure
+/out
+/logs
+/build
+/src/generated
+**/build
+**/out
+**/generated
+**/generated_test
+**/allure-results
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+*.log
+
